@@ -423,4 +423,9 @@
     <string name="profile_traffic_statistics">配置流量统计</string>
     <string name="group_filter_owners">拥有者</string>
     <string name="group_filter_owners_nf">该订阅中没有拥有者</string>
+    <string name="route_opt_block_analysis">屏蔽信息收集</string>
+    <string name="start">开始</string>
+    <string name="stun_attest_loading">这可能需要几分钟…</string>
+    <string name="recheck">重新测试</string>
+    <string name="probe_url">自定义测试链接</string>
 </resources>
